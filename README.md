@@ -1,0 +1,21 @@
+# UEFA、MassiveMusic – UEFA Europa League Anthem
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:44.68] ŞAMPİYON CİMBOM
+[00:44.87] ŞAMPİYON CİMBOM
+[00:45.15] ŞAMPİYON CİMBOM
+[00:45.43] ŞAMPİYON CİMBOM
+[00:45.64] ŞAMPİYON CİMBOM
+[00:45.91] ŞAMPİYON CİMBOM
+[00:46.29] ŞAMPİYON CİMBOM
+[00:46.54] ŞAMPİYON CİMBOM
+[00:46.80] ŞAMPİYON CİMBOM
+[00:47.03] ŞAMPİYON CİMBOM
+[00:47.38] ŞAMPİYON CİMBOM
+[00:47.61] ŞAMPİYON CİMBOM
+[00:47.86] ŞAMPİYON CİMBOM
+[00:48.16] ŞAMPİYON CİMBOM
+[00:48.47] İG:aakadaminallahinisiker
+```
