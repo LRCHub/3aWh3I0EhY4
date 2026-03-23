@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "UEFA Europa League Anthem",
+  "base_artist": "UEFA、MassiveMusic",
+  "createdAt": "2026-03-23T02:49:27.513144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "UEFA Europa League Anthem (Full Version)",
+      "artist": "UEFA",
+      "has_synced": true,
+      "path": "select/01_UEFA_Europa_League_Anthem_(Full_Version)_UEFA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "UEFA Europa League Anthem (Full Version)",
+      "artist": "MassiveMusic",
+      "has_synced": true,
+      "path": "select/02_UEFA_Europa_League_Anthem_(Full_Version)_MassiveMusic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "UEFA Europa League Anthem (Full Version)",
+      "artist": "UEFA & MassiveMusic",
+      "has_synced": true,
+      "path": "select/03_UEFA_Europa_League_Anthem_(Full_Version)_UEFA_&_MassiveMusic.lrc"
+    }
+  ]
+}
